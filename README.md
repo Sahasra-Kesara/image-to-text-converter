@@ -6,6 +6,10 @@ A sleek web application that lets you extract text from images using Tesseract O
 
 
 
+https://github.com/Sahasra-Kesara/image-to-text-converter/assets/121740972/97b72101-2c04-4402-8cc7-3b7b4a3cd488
+
+
+
 
 ## 🚀 Features
 
